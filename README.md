@@ -1,4 +1,4 @@
-# miko-robotics-assignment
+# Rapidly Explording Random Graphs with cpp
 
 ### Method
 
