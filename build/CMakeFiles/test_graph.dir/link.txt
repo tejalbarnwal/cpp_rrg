@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_graph.dir/src/test_graph.cpp.o CMakeFiles/test_graph.dir/src/custom_graph.cpp.o CMakeFiles/test_graph.dir/src/geometry.cpp.o -o test_graph  -lpython3.10 
